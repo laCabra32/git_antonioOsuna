@@ -1,0 +1,1 @@
+Straub, B and Chacon, S. Pro Git. APRESS\nHodson, R. Ry’s Git Tutorial. Smashwords (2014).
